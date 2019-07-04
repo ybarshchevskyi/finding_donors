@@ -1,7 +1,3 @@
-# Data Scientist Nanodegree
-# Supervised Learning
-## Project: Finding Donors for CharityML
-
 ### Background
 
 This is a project completed under the Udacity DataScience NanoDegree program. 
